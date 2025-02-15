@@ -1,0 +1,13 @@
+.carousel-item img {
+  object-fit: cover;
+  width: 100%;
+  height: 90vh;
+}
+
+.navbar-nav {
+  gap: 20px; 
+}
+
+.navbar .navbar-brand {
+  margin-left: auto; 
+}
